@@ -6,4 +6,4 @@ add_library(linklist SHARED ${LIB_SRC_LIST})
 #添加静态库
 add_library(linklist_static STATIC ${LIB_SRC_LIST})
 #重新设置静态库目标文件名称
-SET_TARGET_PROPERTIES(linklist_static PROPERTIES OUTPUT_NAME "linklist")
+set_target_properties(linklist_static PROPERTIES OUTPUT_NAME "linklist")

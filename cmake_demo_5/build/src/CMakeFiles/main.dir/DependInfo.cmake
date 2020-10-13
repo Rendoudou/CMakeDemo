@@ -4,13 +4,15 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
+  "/home/doudou/cmake_demo/cmake_demo_5/lib/LinkLists.cpp" "/home/doudou/cmake_demo/cmake_demo_5/build/src/CMakeFiles/main.dir/__/lib/LinkLists.cpp.o"
   "/home/doudou/cmake_demo/cmake_demo_5/src/main.cpp" "/home/doudou/cmake_demo/cmake_demo_5/build/src/CMakeFiles/main.dir/main.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 
 # The include file search paths:
 set(CMAKE_CXX_TARGET_INCLUDE_PATH
-  "../lib/LinkLists.h"
+  "../."
+  "../lib"
   )
 
 # Targets to which this target links.

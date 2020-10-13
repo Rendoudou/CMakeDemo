@@ -125,6 +125,33 @@ main/fast:
 	cd /home/doudou/cmake_demo/cmake_demo_5/build && $(MAKE) -f src/CMakeFiles/main.dir/build.make src/CMakeFiles/main.dir/build
 .PHONY : main/fast
 
+__/lib/LinkLists.o: __/lib/LinkLists.cpp.o
+
+.PHONY : __/lib/LinkLists.o
+
+# target to build an object file
+__/lib/LinkLists.cpp.o:
+	cd /home/doudou/cmake_demo/cmake_demo_5/build && $(MAKE) -f src/CMakeFiles/main.dir/build.make src/CMakeFiles/main.dir/__/lib/LinkLists.cpp.o
+.PHONY : __/lib/LinkLists.cpp.o
+
+__/lib/LinkLists.i: __/lib/LinkLists.cpp.i
+
+.PHONY : __/lib/LinkLists.i
+
+# target to preprocess a source file
+__/lib/LinkLists.cpp.i:
+	cd /home/doudou/cmake_demo/cmake_demo_5/build && $(MAKE) -f src/CMakeFiles/main.dir/build.make src/CMakeFiles/main.dir/__/lib/LinkLists.cpp.i
+.PHONY : __/lib/LinkLists.cpp.i
+
+__/lib/LinkLists.s: __/lib/LinkLists.cpp.s
+
+.PHONY : __/lib/LinkLists.s
+
+# target to generate assembly for a file
+__/lib/LinkLists.cpp.s:
+	cd /home/doudou/cmake_demo/cmake_demo_5/build && $(MAKE) -f src/CMakeFiles/main.dir/build.make src/CMakeFiles/main.dir/__/lib/LinkLists.cpp.s
+.PHONY : __/lib/LinkLists.cpp.s
+
 main.o: main.cpp.o
 
 .PHONY : main.o
@@ -161,6 +188,9 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
 	@echo "... main"
+	@echo "... __/lib/LinkLists.o"
+	@echo "... __/lib/LinkLists.i"
+	@echo "... __/lib/LinkLists.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"
