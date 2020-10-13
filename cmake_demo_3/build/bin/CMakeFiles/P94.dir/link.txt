@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/P94.dir/P94.cpp.o  -o P94 -rdynamic 

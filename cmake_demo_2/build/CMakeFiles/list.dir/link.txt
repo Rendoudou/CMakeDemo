@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/list.dir/main.cpp.o CMakeFiles/list.dir/LinkLists.cpp.o  -o list -rdynamic 

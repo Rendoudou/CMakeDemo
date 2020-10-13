@@ -1,0 +1,3 @@
+/home/doudou/test_cmakelists/build/CMakeFiles/edit_cache.dir
+/home/doudou/test_cmakelists/build/CMakeFiles/rebuild_cache.dir
+/home/doudou/test_cmakelists/build/CMakeFiles/list.dir

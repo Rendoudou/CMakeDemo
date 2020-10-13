@@ -1,0 +1,5 @@
+/home/doudou/cmake_demo/cmake_demo_3/build/CMakeFiles/edit_cache.dir
+/home/doudou/cmake_demo/cmake_demo_3/build/CMakeFiles/rebuild_cache.dir
+/home/doudou/cmake_demo/cmake_demo_3/build/bin/CMakeFiles/edit_cache.dir
+/home/doudou/cmake_demo/cmake_demo_3/build/bin/CMakeFiles/rebuild_cache.dir
+/home/doudou/cmake_demo/cmake_demo_3/build/bin/CMakeFiles/P94.dir

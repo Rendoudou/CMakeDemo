@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/doudou/cmake_demo/cmake_demo_1/P94.cpp
+iostream
+-
+string
+-
+vector
+-
+list
+-
+algorithm
+-
+math.h
+-
+sstream
+-
+iomanip
+-
+map
+-
+

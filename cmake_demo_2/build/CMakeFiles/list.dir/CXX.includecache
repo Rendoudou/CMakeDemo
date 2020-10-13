@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/doudou/test_cmakelists/LinkLists.cpp
+LinkLists.h
+/home/doudou/test_cmakelists/LinkLists.h
+iostream
+-
+
+/home/doudou/test_cmakelists/LinkLists.h
+
+/home/doudou/test_cmakelists/main.cpp
+iostream
+-
+LinkLists.h
+/home/doudou/test_cmakelists/LinkLists.h
+

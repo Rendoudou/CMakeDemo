@@ -1,0 +1,6 @@
+/home/doudou/cmake_demo/cmake_demo_4/build/CMakeFiles/edit_cache.dir
+/home/doudou/cmake_demo/cmake_demo_4/build/CMakeFiles/rebuild_cache.dir
+/home/doudou/cmake_demo/cmake_demo_4/build/lib/CMakeFiles/rebuild_cache.dir
+/home/doudou/cmake_demo/cmake_demo_4/build/lib/CMakeFiles/linklist_static.dir
+/home/doudou/cmake_demo/cmake_demo_4/build/lib/CMakeFiles/edit_cache.dir
+/home/doudou/cmake_demo/cmake_demo_4/build/lib/CMakeFiles/linklist.dir
