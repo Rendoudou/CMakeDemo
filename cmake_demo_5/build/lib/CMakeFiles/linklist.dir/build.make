@@ -60,15 +60,15 @@ include lib/CMakeFiles/linklist.dir/flags.make
 lib/CMakeFiles/linklist.dir/LinkLists.cpp.o: lib/CMakeFiles/linklist.dir/flags.make
 lib/CMakeFiles/linklist.dir/LinkLists.cpp.o: ../lib/LinkLists.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/doudou/cmake_demo/cmake_demo_5/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object lib/CMakeFiles/linklist.dir/LinkLists.cpp.o"
-	cd /home/doudou/cmake_demo/cmake_demo_5/build/lib && /usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/linklist.dir/LinkLists.cpp.o -c /home/doudou/cmake_demo/cmake_demo_5/lib/LinkLists.cpp
+	cd /home/doudou/cmake_demo/cmake_demo_5/build/lib && /usr/bin/g++-5   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/linklist.dir/LinkLists.cpp.o -c /home/doudou/cmake_demo/cmake_demo_5/lib/LinkLists.cpp
 
 lib/CMakeFiles/linklist.dir/LinkLists.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/linklist.dir/LinkLists.cpp.i"
-	cd /home/doudou/cmake_demo/cmake_demo_5/build/lib && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/doudou/cmake_demo/cmake_demo_5/lib/LinkLists.cpp > CMakeFiles/linklist.dir/LinkLists.cpp.i
+	cd /home/doudou/cmake_demo/cmake_demo_5/build/lib && /usr/bin/g++-5  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/doudou/cmake_demo/cmake_demo_5/lib/LinkLists.cpp > CMakeFiles/linklist.dir/LinkLists.cpp.i
 
 lib/CMakeFiles/linklist.dir/LinkLists.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/linklist.dir/LinkLists.cpp.s"
-	cd /home/doudou/cmake_demo/cmake_demo_5/build/lib && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/doudou/cmake_demo/cmake_demo_5/lib/LinkLists.cpp -o CMakeFiles/linklist.dir/LinkLists.cpp.s
+	cd /home/doudou/cmake_demo/cmake_demo_5/build/lib && /usr/bin/g++-5  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/doudou/cmake_demo/cmake_demo_5/lib/LinkLists.cpp -o CMakeFiles/linklist.dir/LinkLists.cpp.s
 
 lib/CMakeFiles/linklist.dir/LinkLists.cpp.o.requires:
 

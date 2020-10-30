@@ -4,15 +4,14 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/doudou/cmake_demo/cmake_demo_5/lib/LinkLists.cpp" "/home/doudou/cmake_demo/cmake_demo_5/build/CMakeFiles/main.dir/lib/LinkLists.cpp.o"
-  "/home/doudou/cmake_demo/cmake_demo_5/src/main.cpp" "/home/doudou/cmake_demo/cmake_demo_5/build/CMakeFiles/main.dir/src/main.cpp.o"
+  "/home/doudou/cmake_demo/opencv_test/demo.cpp" "/home/doudou/cmake_demo/opencv_test/build/CMakeFiles/demo.dir/demo.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 
 # The include file search paths:
 set(CMAKE_CXX_TARGET_INCLUDE_PATH
-  "../."
-  "../lib"
+  "/opt/ros/kinetic/include/opencv-3.3.1-dev"
+  "/opt/ros/kinetic/include/opencv-3.3.1-dev/opencv"
   )
 
 # Targets to which this target links.

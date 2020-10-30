@@ -60,15 +60,15 @@ include src/CMakeFiles/main.dir/flags.make
 src/CMakeFiles/main.dir/main.cpp.o: src/CMakeFiles/main.dir/flags.make
 src/CMakeFiles/main.dir/main.cpp.o: ../src/main.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/doudou/cmake_demo/cmake_demo_5/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object src/CMakeFiles/main.dir/main.cpp.o"
-	cd /home/doudou/cmake_demo/cmake_demo_5/build/src && /usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/main.dir/main.cpp.o -c /home/doudou/cmake_demo/cmake_demo_5/src/main.cpp
+	cd /home/doudou/cmake_demo/cmake_demo_5/build/src && /usr/bin/g++-5   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/main.dir/main.cpp.o -c /home/doudou/cmake_demo/cmake_demo_5/src/main.cpp
 
 src/CMakeFiles/main.dir/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/main.dir/main.cpp.i"
-	cd /home/doudou/cmake_demo/cmake_demo_5/build/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/doudou/cmake_demo/cmake_demo_5/src/main.cpp > CMakeFiles/main.dir/main.cpp.i
+	cd /home/doudou/cmake_demo/cmake_demo_5/build/src && /usr/bin/g++-5  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/doudou/cmake_demo/cmake_demo_5/src/main.cpp > CMakeFiles/main.dir/main.cpp.i
 
 src/CMakeFiles/main.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/main.dir/main.cpp.s"
-	cd /home/doudou/cmake_demo/cmake_demo_5/build/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/doudou/cmake_demo/cmake_demo_5/src/main.cpp -o CMakeFiles/main.dir/main.cpp.s
+	cd /home/doudou/cmake_demo/cmake_demo_5/build/src && /usr/bin/g++-5  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/doudou/cmake_demo/cmake_demo_5/src/main.cpp -o CMakeFiles/main.dir/main.cpp.s
 
 src/CMakeFiles/main.dir/main.cpp.o.requires:
 
@@ -84,15 +84,15 @@ src/CMakeFiles/main.dir/main.cpp.o.provides.build: src/CMakeFiles/main.dir/main.
 src/CMakeFiles/main.dir/__/lib/LinkLists.cpp.o: src/CMakeFiles/main.dir/flags.make
 src/CMakeFiles/main.dir/__/lib/LinkLists.cpp.o: ../lib/LinkLists.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/doudou/cmake_demo/cmake_demo_5/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object src/CMakeFiles/main.dir/__/lib/LinkLists.cpp.o"
-	cd /home/doudou/cmake_demo/cmake_demo_5/build/src && /usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/main.dir/__/lib/LinkLists.cpp.o -c /home/doudou/cmake_demo/cmake_demo_5/lib/LinkLists.cpp
+	cd /home/doudou/cmake_demo/cmake_demo_5/build/src && /usr/bin/g++-5   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/main.dir/__/lib/LinkLists.cpp.o -c /home/doudou/cmake_demo/cmake_demo_5/lib/LinkLists.cpp
 
 src/CMakeFiles/main.dir/__/lib/LinkLists.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/main.dir/__/lib/LinkLists.cpp.i"
-	cd /home/doudou/cmake_demo/cmake_demo_5/build/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/doudou/cmake_demo/cmake_demo_5/lib/LinkLists.cpp > CMakeFiles/main.dir/__/lib/LinkLists.cpp.i
+	cd /home/doudou/cmake_demo/cmake_demo_5/build/src && /usr/bin/g++-5  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/doudou/cmake_demo/cmake_demo_5/lib/LinkLists.cpp > CMakeFiles/main.dir/__/lib/LinkLists.cpp.i
 
 src/CMakeFiles/main.dir/__/lib/LinkLists.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/main.dir/__/lib/LinkLists.cpp.s"
-	cd /home/doudou/cmake_demo/cmake_demo_5/build/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/doudou/cmake_demo/cmake_demo_5/lib/LinkLists.cpp -o CMakeFiles/main.dir/__/lib/LinkLists.cpp.s
+	cd /home/doudou/cmake_demo/cmake_demo_5/build/src && /usr/bin/g++-5  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/doudou/cmake_demo/cmake_demo_5/lib/LinkLists.cpp -o CMakeFiles/main.dir/__/lib/LinkLists.cpp.s
 
 src/CMakeFiles/main.dir/__/lib/LinkLists.cpp.o.requires:
 
